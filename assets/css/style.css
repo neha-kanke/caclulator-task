@@ -1,0 +1,42 @@
+
+.container{
+    width: 500px;
+    height :500px;
+    margin: 0 auto;
+}
+
+
+.calculater {
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 3px 25px 45px rgba(rgb(212, 66, 66));
+    background: transparent;
+    border: 1px solid #fff;
+
+}
+input{
+    font-size: 36px;
+    border: 2px solid red;
+    border-radius: 16px;
+    box-shadow: 0px 3px 15px rgba(158, 69, 69, 0.15);
+}
+
+button {
+    border: none;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background:transparent;
+    margin: 5px;
+    font-size: 25px;
+    align-items: center;
+    box-shadow: -8px  -8px 15px rgb(138, 132, 132) ;
+}
+
+.operator {
+    color: blueviolet
+}
+
+.euqalBtn {
+    color: chocolate
+}
